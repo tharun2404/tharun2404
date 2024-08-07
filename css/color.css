@@ -1,0 +1,185 @@
+/*------------------------------
+ * Copyright 2014 Pixelized
+ * http://www.pixelized.cz
+ *
+ * Roxie theme v1.0
+------------------------------*/
+
+/*------------------------------
+	GREEN
+------------------------------*/
+
+body  .text-primary,
+body  .btn-inverse:hover,
+body  .btn-inverse:focus,
+body  .nav.vertical-nav li a:hover,
+body  form label,
+body  .owl-theme .owl-controls .owl-buttons div,
+body  .top-header .header-item,
+body  .navbar-default .navbar-brand:hover,
+body  .dropdown-menu > li > a:hover i,
+body  .jumbotron6 #slide-3 .btn:first-child,
+body  .jumbotron5 .btn:first-child,
+body  .pagination > li > a:hover,
+body  .pagination > li > span:hover,
+body  #section-introduction h2,
+body  #section-features .feature i,
+body  .text-highlight span,
+body  #section-portfolio .portfolio-item a:hover i,
+body  footer h3 i,
+body  footer .navbar-nav > li > a:hover,
+body  #features .features-sidebar h3,
+body  #features .features-content h3.features-title i,
+body  #faq h3,
+body  #services .service:hover h3,
+body  #services.services1 .service i,
+body  #services.services2 .service i,
+body  #services.services3 .service i,
+body  .profile h3 small,
+body  .box h3,
+body  .box ul li.active a,
+body  .box ul li a:hover,
+body  .box ul li a i,
+body  .box.box-tags a:hover span,
+body  .blog-post-detail span i,
+body  .blog-timeline .blog-post .blog-post-info .month,
+body  .comment a:hover,
+body  #eshop .eshop-sidebar h3,
+body  .shopping-cart-footer p.total-price,
+body  .jumbotron6 #slide-3 .btn:hover,
+body  .jumbotron5 .btn:hover,
+body  .jumbotron3 .btn:hover,
+body  #section-blog-posts .btn:hover,
+body  #separator1 .btn:hover  {
+	color:#2D6625;
+}
+
+body  .btn-primary,
+body  .alert-primary,
+body  .label-primary,
+body  .panel-primary > .panel-heading,
+body  .blog-timeline .blog-post:hover .blog-post-info,
+body  .eshop-product .product-sale-label,
+body  .popover-title,
+body  .nav-tabs > li.active > a, 
+body  .nav-tabs > li.active > a:hover, 
+body  .nav-tabs > li.active > a:focus,
+body  .overlay-wrapper .overlay,
+body  .owl-theme .owl-controls .owl-page.active span,
+body  .owl-theme .owl-controls .owl-buttons div:hover,
+body  .brands.main li a,
+body  .navbar-default .navbar-nav > .active > a, 
+body  .navbar-default .navbar-nav > .active > a:hover, 
+body  .navbar-default .navbar-nav > .active > a:focus,
+body  .navbar-default .navbar-nav > .open > a, 
+body  .navbar-default .navbar-nav > .open > a:hover, 
+body  .navbar-default .navbar-nav > .open > a:focus,
+body  .jumbotron6 #slide-3 .btn:first-child:hover,
+body  .jumbotron5 .btn:first-child:hover,
+body  .content-separator,
+body  .bg-color-1,
+body  .pagination > .active > a, 
+body  .pagination > .active > span, 
+body  .pagination > .active > a:hover, 
+body  .pagination > .active > span:hover, 
+body  .pagination > .active > a:focus, 
+body  .pagination > .active > span:focus,
+body  #section-features .feature:hover i,
+body  .recent-blog-post .post-date,
+body  .pricing-plan .pricing-plan-price,
+body  #services.services2 .service:hover i,
+body  #services.services3 .service:hover i,
+body  .blog-header .vertical-nav li a:hover .badge,
+body  .box ul li a span.badge,
+body  .blog-timeline-mark,
+body  #section-portfolio .portfolio-item .hover-overlay,
+body  .hidden-control.owl-theme .owl-controls .owl-buttons div:hover {
+    background-color: #2D6625;
+}
+
+body  .popover,
+body  .navbar-nav > li > .dropdown-menu,
+body  .jumbotron6 #slide-3 .btn:first-child,
+body  .jumbotron5 .btn:first-child,
+body  .pagination > .active > a, 
+body  .pagination > .active > span, 
+body  .pagination > .active > a:hover, 
+body  .pagination > .active > span:hover, 
+body  .pagination > .active > a:focus, 
+body  .pagination > .active > span:focus,
+body  #section-features .feature i,
+body  .text-highlight,
+body  #services.services2 .service i,
+body  #services.services3 .service i  {
+	border-color:#2D6625;
+}
+
+body  .popover.left > .arrow {border-left-color: #2D6625;}
+body  .popover.right > .arrow {border-right-color: #2D6625;}
+body  .popover.top > .arrow {border-top-color: #2D6625;}
+body  .popover.bottom > .arrow {border-bottom-color: #2D6625;}
+
+/* TRANSPARENT */
+
+body  .hidden-control.owl-theme .owl-controls .owl-buttons div {
+	background-color: rgba(22, 160, 133, 0.5);
+}
+
+body  .jumbotron6 h2,
+body  .jumbotron5 h2,
+body  .jumbotron3 h2,
+body  .map-overlay {
+	background-color:rgba(22, 160, 133, 0.8);
+}
+
+body  .jumbotron2,
+body  .jumbotron4 {
+	background-image: linear-gradient(rgba(22, 160, 133, 0.9), rgba(22, 160, 133, 0.9)), url(../image/bg3.html);
+}
+
+body  .jumbotron7 {
+	background-image: linear-gradient(rgba(22, 160, 133, 0.6), rgba(22, 160, 133, 0.6)),url(../image/gplaypattern.html);
+}
+
+body  #section-blog-posts,
+body  #section-testimonials,
+body  #section-statistics,
+body  .jumbotron1 {
+	background-image: linear-gradient(rgba(22, 160, 133, 0.6), rgba(22, 160, 133, 0.6)), url(../image/bg3.html);
+}
+
+@media (max-width:991px) {
+	body  .navbar-default .navbar-toggle:hover,
+	body  .navbar-default .navbar-toggle:focus,
+	body  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+	body  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+		color:#2D6625;
+	}
+	
+	body  .navbar-default .navbar-collapse {
+		border-color:#2D6625;
+	}
+}
+
+/* DARKER */
+
+body  a:hover,
+body  a:focus {
+	color:#119178;
+}	
+
+body  .btn-primary:hover,
+body  .btn-primary:focus,
+body  .btn-primary.active,
+body  .pricing-plan h3,
+body  .pricing-plan p {
+	background-color:#119178;
+}
+
+body  .btn-primary:hover,
+body  .btn-primary:focus,
+body  .btn-primary.active,
+body  .blog-timeline .blog-post:hover .blog-post-info,
+body  .eshop-product .product-sale-label {
+	border-color:#119178;
+}
